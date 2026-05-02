@@ -1,0 +1,28 @@
+# Datasets
+asl_alphabet_train/
+asl_alphabet_test/
+
+# Old models & cache files
+asl_model.h5
+landmark_data.npz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
