@@ -91,4 +91,4 @@ If you want to tweak the MLP architecture or train it on your own dataset:
    ```
 
 ## 📝 Project Report
-A comprehensive academic project report detailing the dataset, CNN vs MLP architectures, mathematical normalization logic, and results can be found in `project_report.tex` (LaTeX source) and `project_report.md`.
+A comprehensive academic project report detailing the dataset, CNN vs MLP architectures, mathematical normalization logic, and results can be found in `MiniProject_ML_nishant.pdf`.
